@@ -2,9 +2,10 @@
 Awesome List of Controls, Vision, Planning
 
 ## Vision
-1. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
-2. https://cmsc733.github.io/2019/proj/p3/
-3. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
+1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+2. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+3. https://cmsc733.github.io/2019/proj/p3/
+4. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
 
 **People**
 1. https://mengzephyr.com/
@@ -20,10 +21,7 @@ Awesome List of Controls, Vision, Planning
 
 
 ## Controls
-**Swarm**
-1. https://github.com/yangliu28/swarm_formation_sim
-2. https://github.com/yxiao1996/SwarmSim
-3. https://github.com/gnotomista/swarm_sim
+1. [Google Scholar: Top Conrols conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
@@ -32,9 +30,15 @@ Awesome List of Controls, Vision, Planning
 4. 16.32 Principles of Optimal Control and Estimation
 5. 16.343 Spacecraft and Aircraft Sensors and Instrumentation
 6. 16.346 Astrodynamics
-7. 
+
+**Swarm**
+1. https://github.com/yangliu28/swarm_formation_sim
+2. https://github.com/yxiao1996/SwarmSim
+3. https://github.com/gnotomista/swarm_sim
+
 
 ## Planning
+1. [Google Scholar: Top Game theory/Decision science conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_gametheorydecisionscience)
 
 **Institutes**
 1. 6.413[J]/6.877[J] Principles of Autonomy and Decision Making
@@ -42,12 +46,23 @@ Awesome List of Controls, Vision, Planning
 3. 16.420 Planning Under Uncertainty
 4. 16.485 Visual Navigation for Autonomous Vehicles
 
-
+**Conferences**
+1. https://www.icaps-conference.org/
 
 
 ## Robotics
-1. https://github.com/mathworks-robotics/awesome-matlab-robotics
+1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
+2. https://github.com/mathworks-robotics/awesome-matlab-robotics
 4. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
+
+**Institutes**
+1. https://www.iris.ethz.ch/
+2. https://rsl.ethz.ch/research/researchtopics.html
+
+**Companies**
+1. https://deepmind.com/research
+2. https://www.merl.com/research/
+
 
 
 ## Embedded
