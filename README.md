@@ -31,6 +31,12 @@ Awesome List of Controls, Vision, Planning
 5. 16.343 Spacecraft and Aircraft Sensors and Instrumentation
 6. 16.346 Astrodynamics
 
+**Optimal**
+1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
+
+**Adaptive**
+1. https://github.com/aleixpb2/2.153-adaptive-controller-quadrotor
+
 **Swarm**
 1. https://github.com/yangliu28/swarm_formation_sim
 2. https://github.com/yxiao1996/SwarmSim
@@ -54,6 +60,9 @@ Awesome List of Controls, Vision, Planning
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
 2. https://github.com/mathworks-robotics/awesome-matlab-robotics
 4. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
+
+**People**
+1. https://www.mit.edu/~arosinol/
 
 **Institutes**
 1. https://www.iris.ethz.ch/
