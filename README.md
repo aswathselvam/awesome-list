@@ -41,6 +41,7 @@ Awesome List of Controls, Vision, Planning
 1. https://github.com/yangliu28/swarm_formation_sim
 2. https://github.com/yxiao1996/SwarmSim
 3. https://github.com/gnotomista/swarm_sim
+4. https://github.com/eshimelis/info_control
 
 
 ## Planning
