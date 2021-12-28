@@ -81,7 +81,7 @@ Other links:
 ## Embedded
 1. MIT 6.846 Parallel Computing
 2. MIT 6.816/6.836 Multicore Programming()
-3. MIT (6.827 Algorithm Engineering)[https://people.csail.mit.edu/jshun/6827-s22/]
+3. MIT [6.827 Algorithm Engineering](https://people.csail.mit.edu/jshun/6827-s22/)
 4. MIT 6.850 Geometric Computing
 5. MIT 16.35 Real-Time Systems and Software
 6. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
