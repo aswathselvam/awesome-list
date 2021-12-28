@@ -13,7 +13,7 @@ Awesome List of Controls, Vision, Planning
 **Institutes**
 1. MIT [6.801/6.866 Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/), 
 [2004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)
-2. 
+2. MIT [6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/sp21/). Example [Repository](https://github.com/akselsd/MIT-6.869-Advances-In-Computer-Vision)
 
 
 **Companies**
@@ -81,8 +81,9 @@ Other links:
 ## Embedded
 1. MIT 6.846 Parallel Computing
 2. MIT 6.816/6.836 Multicore Programming()
-3. MIT 6.850 Geometric Computing
-4. MIT 16.35 Real-Time Systems and Software
-5. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
-6. MIT [6.818 Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html)
-7. MIT 18.337J/6.338J: Parallel Computing and Scientific Machine Learning. [Collection :star:](https://github.com/mitmath/18337)
+3. MIT (6.827 Algorithm Engineering)[https://people.csail.mit.edu/jshun/6827-s22/]
+4. MIT 6.850 Geometric Computing
+5. MIT 16.35 Real-Time Systems and Software
+6. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
+7. MIT [6.818 Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html)
+8. MIT 18.337J/6.338J: Parallel Computing and Scientific Machine Learning. [Collection :star:](https://github.com/mitmath/18337)
