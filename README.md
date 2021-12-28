@@ -25,12 +25,13 @@ Awesome List of Controls, Vision, Planning
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
-2. MIT 16.332 Formal Methods for Safe Autonomous Systems
-3. MIT 16.338[J] Dynamic Systems and Control
-4. MIT 16.31/16.30 Feedback Control Systems
-5. MIT 16.32 Principles of Optimal Control and Estimation
-6. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
-7. MIT 16.346 Astrodynamics
+2. MIT [6.832: Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2021/index.html). [Further Materials](http://underactuated.csail.mit.edu/Spring2021/resources.html#further_material)
+3. MIT 16.332 Formal Methods for Safe Autonomous Systems
+4. MIT 16.338[J] Dynamic Systems and Control
+5. MIT 16.31/16.30 Feedback Control Systems
+6. MIT 16.32 Principles of Optimal Control and Estimation
+7. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
+8. MIT 16.346 Astrodynamics
 
 **Optimal**
 1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
