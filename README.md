@@ -25,11 +25,12 @@ Awesome List of Controls, Vision, Planning
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
-2. 16.332 Formal Methods for Safe Autonomous Systems
-3. 16.338[J] Dynamic Systems and Control
-4. 16.32 Principles of Optimal Control and Estimation
-5. 16.343 Spacecraft and Aircraft Sensors and Instrumentation
-6. 16.346 Astrodynamics
+2. MIT 16.332 Formal Methods for Safe Autonomous Systems
+3. MIT 16.338[J] Dynamic Systems and Control
+4. MIT 16.31/16.30 Feedback Control Systems
+5. MIT 16.32 Principles of Optimal Control and Estimation
+6. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
+7. MIT 16.346 Astrodynamics
 
 **Optimal**
 1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
@@ -43,6 +44,8 @@ Awesome List of Controls, Vision, Planning
 3. https://github.com/gnotomista/swarm_sim
 4. https://github.com/eshimelis/info_control
 
+Other links:
+1. https://github.com/SergeiSa/Control-Theory-Slides-Spring-2021
 
 ## Planning
 1. [Google Scholar: Top Game theory/Decision science conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_gametheorydecisionscience)
