@@ -77,7 +77,10 @@ Other links:
 1. https://deepmind.com/research
 2. https://www.merl.com/research/
 
-
+## Self-Driving cars
+1. [NuTonomy](https://github.com/nutonomy)
+2. [Waymo](https://github.com/waymo-research)
+3. [Lyft](https://github.com/lyft)
 
 ## Embedded
 1. MIT 6.846 Parallel Computing
