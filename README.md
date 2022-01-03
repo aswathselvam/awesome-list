@@ -97,3 +97,6 @@ Other links:
 6. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
 7. MIT [6.818 Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html)
 8. MIT 18.337J/6.338J: Parallel Computing and Scientific Machine Learning. [Collection :star:](https://github.com/mitmath/18337)
+
+## GPU
+1. https://rapids.ai/
