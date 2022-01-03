@@ -7,6 +7,9 @@ Awesome List of Controls, Vision, Planning
 3. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 4. https://cmsc733.github.io/2019/proj/p3/
 5. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
+6. https://github.com/SilenceOverflow/Awesome-SLAM
+7. https://github.com/thien94/Another_VO_SLAM_List
+8. https://github.com/dectrfov/awesome_3DReconstruction_list
 
 **People**
 1. https://mengzephyr.com/
@@ -67,6 +70,7 @@ Other links:
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
 2. https://github.com/mathworks-robotics/awesome-matlab-robotics
 4. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
+5. https://github.com/dectrfov/ICRA2021PaperList
 
 **People**
 1. https://www.mit.edu/~arosinol/
