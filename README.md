@@ -68,7 +68,8 @@ Other links:
 
 ## Robotics
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
-2. https://github.com/mathworks-robotics/awesome-matlab-robotics
+2. https://github.com/jslee02/awesome-robotics-libraries
+3. https://github.com/mathworks-robotics/awesome-matlab-robotics
 4. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
 5. https://github.com/dectrfov/ICRA2021PaperList
 
