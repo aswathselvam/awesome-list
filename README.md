@@ -3,9 +3,10 @@ Awesome List of Controls, Vision, Planning
 
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-2. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
-3. https://cmsc733.github.io/2019/proj/p3/
-4. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
+2. [List of Conferences and Deadline](https://vision.ai.illinois.edu/links/)
+3. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+4. https://cmsc733.github.io/2019/proj/p3/
+5. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
 
 **People**
 1. https://mengzephyr.com/
@@ -14,6 +15,7 @@ Awesome List of Controls, Vision, Planning
 1. MIT [6.801/6.866 Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/), 
 [2004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)
 2. MIT [6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/sp21/). Example [Repository](https://github.com/akselsd/MIT-6.869-Advances-In-Computer-Vision)
+3. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
 
 
 **Companies**
