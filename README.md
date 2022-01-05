@@ -13,6 +13,7 @@ Awesome List of Controls, Vision, Planning
 
 **People**
 1. https://mengzephyr.com/
+2. https://www.mmlab-ntu.com/person/ccloy/publication_topic.html
 
 **Institutes**
 1. MIT [6.801/6.866 Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/), 
