@@ -16,6 +16,7 @@ Awesome List of Controls, Vision, Planning
 6. https://github.com/SilenceOverflow/Awesome-SLAM
 7. https://github.com/thien94/Another_VO_SLAM_List
 8. https://github.com/dectrfov/awesome_3DReconstruction_list
+9. [Objectron](https://github.com/google-research-datasets/Objectron)
 
 **People**
 1. https://mengzephyr.com/
