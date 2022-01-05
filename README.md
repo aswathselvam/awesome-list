@@ -1,6 +1,10 @@
 # awesome-list
 Awesome List of Controls, Vision, Planning
 
+## Interdisciplinary
+**People**
+1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
+
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 2. [List of Conferences and Deadline](https://vision.ai.illinois.edu/links/)
