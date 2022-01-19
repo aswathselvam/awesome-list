@@ -43,9 +43,11 @@ Awesome List of Controls, Vision, Planning
 2. [The Impact of Control Technology - 2nd edition](http://ieeecss.org/index.php/impact-control-technology-2nd-edition)
 
 **People**
-1. [Sanjay Lall](http://lall.stanford.edu/)
-2. [Boyd](https://web.stanford.edu/~boyd/index.html)
-3. [Krishna Prasad](https://user.eng.umd.edu/~krishna/teaching.htm)
+1. [S. Shankar Sastry](https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html)
+2. [Pieter Abbeel](https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html)
+3. [Sanjay Lall](http://lall.stanford.edu/)
+4. [Boyd](https://web.stanford.edu/~boyd/index.html)
+5. [Krishna Prasad](https://user.eng.umd.edu/~krishna/teaching.htm)
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
@@ -98,10 +100,11 @@ Other links:
 
 ## Robotics
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
-2. https://github.com/jslee02/awesome-robotics-libraries
-3. https://github.com/mathworks-robotics/awesome-matlab-robotics
-4. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
-5. https://github.com/dectrfov/ICRA2021PaperList
+2. [Nikolay Atanasov](https://existentialrobotics.org/pages/research.html)
+3. https://github.com/jslee02/awesome-robotics-libraries
+4. https://github.com/mathworks-robotics/awesome-matlab-robotics
+5. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
+6. https://github.com/dectrfov/ICRA2021PaperList
 
 **People**
 1. https://www.mit.edu/~arosinol/
