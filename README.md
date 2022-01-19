@@ -41,6 +41,11 @@ Awesome List of Controls, Vision, Planning
 1. [Google Scholar: Top Conrols conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
 2. [The Impact of Control Technology - 2nd edition](http://ieeecss.org/index.php/impact-control-technology-2nd-edition)
 
+**People**
+1. [Sanjay Lall](http://lall.stanford.edu/)
+2. [Boyd](https://web.stanford.edu/~boyd/index.html)
+3. [Krishna Prasad](https://user.eng.umd.edu/~krishna/teaching.htm)
+
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
 2. MIT [6.832: Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2021/index.html). [Further Materials](http://underactuated.csail.mit.edu/Spring2021/resources.html#further_material)
