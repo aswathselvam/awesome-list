@@ -138,4 +138,5 @@ Other links:
 
 
 ## Stuffs:
-1. Cornell [Reuleaux Kinematic Mechanisms Collection](https://digital.library.cornell.edu/collections/kmoddl)
+1. [Gang of Four Design Patterns](https://github.com/Junzhuodu/design-patterns)
+2. Cornell [Reuleaux Kinematic Mechanisms Collection](https://digital.library.cornell.edu/collections/kmoddl)
