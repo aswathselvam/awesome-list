@@ -10,7 +10,7 @@ Awesome List of Controls, Vision, Planning
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 2. [List of Conferences and Deadline](https://vision.ai.illinois.edu/links/)
-3. [CVF](https://www.thecvf.com/)
+3. [CVF](https://www.thecvf.com/), [CVF Open Access](https://openaccess.thecvf.com/menu), [Computer Vision Awards](https://www.thecvf.com/?page_id=413)
 4. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 5. https://cmsc733.github.io/2019/proj/p3/
 6. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
