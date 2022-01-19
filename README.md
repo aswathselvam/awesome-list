@@ -38,6 +38,7 @@ Awesome List of Controls, Vision, Planning
 
 ## Controls
 1. [Google Scholar: Top Conrols conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
+2. [The Impact of Control Technology - 2nd edition](http://ieeecss.org/index.php/impact-control-technology-2nd-edition)
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
@@ -49,12 +50,18 @@ Awesome List of Controls, Vision, Planning
 7. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
 8. MIT 16.346 Astrodynamics
 9. Stanford [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html) -> great slides on math background. 
+10. UMD (ENEE 769R - Advanced Topics in Control, Principles and Algorithms for Collectives: from Biology to Robotics)[http://classweb.ece.umd.edu/enee769r.F2012/]
+11. UMD (ENEE 660 - System Theory)[http://classweb.ece.umd.edu/enee660.F2010/]
+
+**Non-Linear**
+1. UMD (ENEE 661 - Nonlinear Control Systems)[http://classweb.ece.umd.edu/enee661.S2020/]
 
 **Optimal**
 1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
 
 **Adaptive**
 1. https://github.com/aleixpb2/2.153-adaptive-controller-quadrotor
+2. UMD (ENEE 765 - Adaptive Control (and Learning Theory))[http://classweb.ece.umd.edu/enee765.F2019/]
 
 **Swarm**
 1. https://github.com/yangliu28/swarm_formation_sim
@@ -110,6 +117,7 @@ Other links:
 6. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
 7. MIT [6.818 Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html)
 8. MIT 18.337J/6.338J: Parallel Computing and Scientific Machine Learning. [Collection :star:](https://github.com/mitmath/18337)
+9. UMD (ENEE 447 - Operating Systems by B. Jacob)[http://classweb.ece.umd.edu/enee447.S2021/]
 
 ## GPU
 1. https://rapids.ai/
