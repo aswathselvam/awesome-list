@@ -10,14 +10,15 @@ Awesome List of Controls, Vision, Planning
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 2. [List of Conferences and Deadline](https://vision.ai.illinois.edu/links/)
-3. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
-4. https://cmsc733.github.io/2019/proj/p3/
-5. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
-6. https://github.com/SilenceOverflow/Awesome-SLAM
-7. https://github.com/thien94/Another_VO_SLAM_List
-8. https://github.com/dectrfov/awesome_3DReconstruction_list
-9. [Objectron](https://github.com/google-research-datasets/Objectron)
-10. Shape for shading: https://github.com/hongzimao/shapeFromShading
+3. [CVF](https://www.thecvf.com/)
+4. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+5. https://cmsc733.github.io/2019/proj/p3/
+6. https://github.com/anirudhtopiwala/ENPM-673-Perception-for-Autonomous-Robots
+7. https://github.com/SilenceOverflow/Awesome-SLAM
+8. https://github.com/thien94/Another_VO_SLAM_List
+9. https://github.com/dectrfov/awesome_3DReconstruction_list
+10. [Objectron](https://github.com/google-research-datasets/Objectron)
+11. Shape for shading: https://github.com/hongzimao/shapeFromShading
 
 **People**
 1. https://mengzephyr.com/
