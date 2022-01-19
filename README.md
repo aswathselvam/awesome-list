@@ -28,6 +28,8 @@ Awesome List of Controls, Vision, Planning
 [2004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)
 2. MIT [6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/sp21/). Example [Repository](https://github.com/akselsd/MIT-6.869-Advances-In-Computer-Vision)
 3. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
+4. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+5. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
 
 
 **Companies**
@@ -46,6 +48,7 @@ Awesome List of Controls, Vision, Planning
 6. MIT 16.32 Principles of Optimal Control and Estimation
 7. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
 8. MIT 16.346 Astrodynamics
+9. Stanford [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html) -> great slides on math background. 
 
 **Optimal**
 1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
