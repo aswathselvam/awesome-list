@@ -121,3 +121,7 @@ Other links:
 
 ## GPU
 1. https://rapids.ai/
+
+
+## Stuffs:
+1. Cornell [Reuleaux Kinematic Mechanisms Collection](https://digital.library.cornell.edu/collections/kmoddl)
