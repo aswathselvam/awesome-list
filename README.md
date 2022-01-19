@@ -30,6 +30,7 @@ Awesome List of Controls, Vision, Planning
 3. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
 4. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 5. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
+6. Stanford [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html), [Total Variation in-Painting](https://nbviewer.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/tv_inpainting.ipynb)
 
 
 **Companies**
