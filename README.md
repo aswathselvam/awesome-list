@@ -55,6 +55,9 @@ Awesome List of Controls, Vision, Planning
 11. UMD (ENEE 660 - System Theory)[http://classweb.ece.umd.edu/enee660.F2010/]
 12. UMD (ENEE 620: Random Processes in Communications and Control)[https://user.eng.umd.edu/~abarg/620/]
 
+**Stohastic Control**
+1. Stanford (EE365: Stochastic Control)[https://stanford.edu/class/ee365/index.html]
+
 **Non-Linear**
 1. UMD (ENEE 661 - Nonlinear Control Systems)[http://classweb.ece.umd.edu/enee661.S2020/]
 
