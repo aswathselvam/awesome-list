@@ -19,6 +19,7 @@ Awesome List of Controls, Vision, Planning
 9. https://github.com/dectrfov/awesome_3DReconstruction_list
 10. [Objectron](https://github.com/google-research-datasets/Objectron)
 11. Shape for shading: https://github.com/hongzimao/shapeFromShading
+12. [Shape Manifolds lecture slides - basics](https://github.com/tomfletcher/GeometryOfData)
 
 **People**
 1. https://mengzephyr.com/
@@ -32,6 +33,7 @@ Awesome List of Controls, Vision, Planning
 4. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 5. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
 6. Stanford [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html), [Total Variation in-Painting](https://nbviewer.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/tv_inpainting.ipynb)
+7. MIT [6.838: Shape Analysis (Spring 2021)](https://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html)
 
 
 **Companies**
