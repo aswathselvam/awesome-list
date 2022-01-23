@@ -3,6 +3,7 @@ Awesome List of Controls, Vision, Planning
 
 ## Interdisciplinary
 1. https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code
+2. https://github.com/Hippogriff/ML-Resources/blob/master/courses.org
 
 **People**
 1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
