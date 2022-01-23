@@ -59,9 +59,10 @@ Awesome List of Controls, Vision, Planning
 7. MIT 16.343 Spacecraft and Aircraft Sensors and Instrumentation
 8. MIT 16.346 Astrodynamics
 9. Stanford [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html) -> great slides on math background. 
-10. UMD (ENEE 769R - Advanced Topics in Control, Principles and Algorithms for Collectives: from Biology to Robotics)[http://classweb.ece.umd.edu/enee769r.F2012/]
-11. UMD (ENEE 660 - System Theory)[http://classweb.ece.umd.edu/enee660.F2010/]
-12. UMD (ENEE 620: Random Processes in Communications and Control)[https://user.eng.umd.edu/~abarg/620/]
+10. UMD [ENEE 769R - Advanced Topics in Control, Principles and Algorithms for Collectives: from Biology to Robotics](http://classweb.ece.umd.edu/enee769r.F2012/)
+11. UMD [ENEE 660 - System Theory](http://classweb.ece.umd.edu/enee660.F2010/)
+12. UMD [ENEE 620: Random Processes in Communications and Control](https://user.eng.umd.edu/~abarg/620/)
+13. UMD [CMSC 764 | ADVANCED NUMERICAL OPTIMIZATION](https://www.cs.umd.edu/~tomg/cmsc764_2020/)
 
 **Stohastic Control**
 1. Stanford (EE365: Stochastic Control)[https://stanford.edu/class/ee365/index.html]
