@@ -9,6 +9,7 @@ Awesome List of Controls, Vision, Planning
 
 **People**
 1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
+2. [Maria K. Cameron](https://www.math.umd.edu/~mariakc/) - Math
 
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
@@ -70,17 +71,17 @@ Awesome List of Controls, Vision, Planning
 13. UMD [CMSC 764 | ADVANCED NUMERICAL OPTIMIZATION](https://www.cs.umd.edu/~tomg/cmsc764_2020/)
 
 **Stohastic Control**
-1. Stanford (EE365: Stochastic Control)[https://stanford.edu/class/ee365/index.html]
+1. Stanford [EE365: Stochastic Control](https://stanford.edu/class/ee365/index.html)
 
 **Non-Linear**
-1. UMD (ENEE 661 - Nonlinear Control Systems)[http://classweb.ece.umd.edu/enee661.S2020/]
+1. UMD [ENEE 661 - Nonlinear Control Systems](http://classweb.ece.umd.edu/enee661.S2020/)
 
 **Optimal**
 1. https://github.com/ToniRV/MIT-16.32-Autonomous-Drone-Racing
 
 **Adaptive**
 1. https://github.com/aleixpb2/2.153-adaptive-controller-quadrotor
-2. UMD (ENEE 765 - Adaptive Control (and Learning Theory))[http://classweb.ece.umd.edu/enee765.F2019/]
+2. UMD [ENEE 765 - Adaptive Control (and Learning Theory)](http://classweb.ece.umd.edu/enee765.F2019/)
 
 **Swarm**
 1. https://github.com/yangliu28/swarm_formation_sim
@@ -95,10 +96,10 @@ Other links:
 1. [Google Scholar: Top Game theory/Decision science conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_gametheorydecisionscience)
 
 **Institutes**
-1. 6.413[J]/6.877[J] Principles of Autonomy and Decision Making
-2. 16.410[J]/6.817[J] Principles of Autonomy and Decision Making
-3. 16.420 Planning Under Uncertainty
-4. 16.485 Visual Navigation for Autonomous Vehicles
+1. MIT 6.413[J]/6.877[J] Principles of Autonomy and Decision Making
+2. MIT 16.410[J]/6.817[J] Principles of Autonomy and Decision Making
+3. MIT 16.420 Planning Under Uncertainty
+4. MIT 16.485 Visual Navigation for Autonomous Vehicles
 
 **Conferences**
 1. https://www.icaps-conference.org/
