@@ -54,6 +54,7 @@ Awesome List of Controls, Vision, Planning
 3. [Sanjay Lall](http://lall.stanford.edu/)
 4. [Boyd](https://web.stanford.edu/~boyd/index.html)
 5. [Krishna Prasad](https://user.eng.umd.edu/~krishna/teaching.htm)
+6. [Miroslav Krstic](http://flyingv.ucsd.edu/)
 
 **Institutes**
 1. MIT [6.800/6.843 Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2021/)
