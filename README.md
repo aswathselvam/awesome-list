@@ -143,6 +143,7 @@ Other links:
 
 ## GPU
 1. https://rapids.ai/
+2. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
 
 
 ## Stuffs:
