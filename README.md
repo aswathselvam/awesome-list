@@ -11,6 +11,9 @@ Awesome List of Controls, Vision, Planning
 1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
 2. [Maria K. Cameron](https://www.math.umd.edu/~mariakc/) - Math
 
+**Companies**
+1. [Microsoft Research](https://www.microsoft.com/en-us/research/)
+
 ## Vision
 1. [Google Scholar: Top Vision conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 2. [List of Conferences and Deadline](https://vision.ai.illinois.edu/links/)
@@ -139,7 +142,7 @@ Other links:
 6. MIT [6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
 7. MIT [6.818 Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html)
 8. MIT 18.337J/6.338J: Parallel Computing and Scientific Machine Learning. [Collection :star:](https://github.com/mitmath/18337)
-9. UMD (ENEE 447 - Operating Systems by B. Jacob)[http://classweb.ece.umd.edu/enee447.S2021/]
+9. UMD [ENEE 447 - Operating Systems by B. Jacob](http://classweb.ece.umd.edu/enee447.S2021/)
 
 ## GPU
 1. https://rapids.ai/
