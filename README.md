@@ -145,8 +145,9 @@ Other links:
 9. UMD [ENEE 447 - Operating Systems by B. Jacob](http://classweb.ece.umd.edu/enee447.S2021/)
 
 ## GPU
-1. https://rapids.ai/
-2. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
+1. [Nvidia - CUDA Samples](https://github.com/NVIDIA/cuda-samples/tree/master/Samples)
+2. https://rapids.ai/
+3. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
 
 
 ## Stuffs:
