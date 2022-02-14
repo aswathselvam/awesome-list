@@ -146,8 +146,10 @@ Other links:
 
 ## GPU
 1. [Nvidia - CUDA Samples](https://github.com/NVIDIA/cuda-samples/tree/master/Samples)
-2. https://rapids.ai/
-3. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
+2. [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+3. [CMake CUDA-ToolKit](https://cmake.org/cmake/help/v3.17/module/FindCUDAToolkit.html)
+4. https://rapids.ai/
+5. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
 
 
 ## Stuffs:
