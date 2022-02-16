@@ -119,6 +119,7 @@ Other links:
 
 **People**
 1. https://www.mit.edu/~arosinol/
+2. [Daniela Rus](https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en)
 
 **Institutes**
 1. https://www.iris.ethz.ch/
