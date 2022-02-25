@@ -41,6 +41,7 @@ Awesome List of Controls, Vision, Planning
 5. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
 6. Stanford [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html), [Total Variation in-Painting](https://nbviewer.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/tv_inpainting.ipynb)
 7. MIT [6.838: Shape Analysis (Spring 2021)](https://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html)
+8. Ideas, Problem statements from [EPFL](https://www.epfl.ch/labs/ivrl/available-projects/). 💯
 
 
 **Companies**
