@@ -27,6 +27,7 @@ Awesome List of Controls, Vision, Planning
 10. [Objectron](https://github.com/google-research-datasets/Objectron)
 11. Shape for shading: https://github.com/hongzimao/shapeFromShading
 12. [Shape Manifolds lecture slides - basics](https://github.com/tomfletcher/GeometryOfData)
+13. [Classical Vision - Books](https://homepages.inf.ed.ac.uk/rbf/CVonline/books.htm) 💥
 
 **People**
 1. https://mengzephyr.com/
