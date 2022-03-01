@@ -28,6 +28,7 @@ Awesome List of Controls, Vision, Planning
 11. Shape for shading: https://github.com/hongzimao/shapeFromShading
 12. [Shape Manifolds lecture slides - basics](https://github.com/tomfletcher/GeometryOfData)
 13. [Classical Vision - Books](https://homepages.inf.ed.ac.uk/rbf/CVonline/books.htm) 💥
+14. [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning), [Holistic 3D Reconstruction](https://github.com/holistic-3d/awesome-holistic-3d)
 
 **People**
 1. https://mengzephyr.com/
@@ -154,6 +155,8 @@ Other links:
 4. https://rapids.ai/
 5. [An introduction to GPU computing](https://lsi2.ugr.es/jmantas/ppr/teoria/descargas/PPR_CUDA.pdf) - Slides
 
+## Tools
+1. [Connected Papers](https://www.connectedpapers.com/)
 
 ## Stuffs:
 1. [Gang of Four Design Patterns](https://github.com/Junzhuodu/design-patterns)
