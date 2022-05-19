@@ -115,7 +115,7 @@ Other links:
 
 
 ## Learning
-1. [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789_fall_2021.html)
+1. [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789_fall_2021.html) 💥
 
 
 
