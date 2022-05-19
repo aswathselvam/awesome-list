@@ -113,6 +113,12 @@ Other links:
 1. https://www.icaps-conference.org/
 
 
+
+## Learning
+1. [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789_fall_2021.html)
+
+
+
 ## Robotics
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
 2. [Nikolay Atanasov](https://existentialrobotics.org/pages/research.html)
