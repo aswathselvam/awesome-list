@@ -6,6 +6,7 @@ Awesome List of Controls, Vision, Planning
 2. [AI Conference Deadlines](http://aideadlin.es/?sub=RO,CV)
 3. [AAAI](https://aaai.org/)
 4. https://github.com/Hippogriff/ML-Resources/blob/master/courses.org
+5. [MATH-GA 2821 Optimization-based Data Analysis](https://cims.nyu.edu/~cfgranda/pages/OBDA_fall17/schedule.html)
 
 **People**
 1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
