@@ -9,8 +9,10 @@ Awesome List of Controls, Vision, Planning
 5. [MATH-GA 2821 Optimization-based Data Analysis](https://cims.nyu.edu/~cfgranda/pages/OBDA_fall17/schedule.html)
 
 **People**
-1. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
-2. [Maria K. Cameron](https://www.math.umd.edu/~mariakc/) - Math
+1. [Tom Goldstein](https://www.cs.umd.edu/~tomg/)
+2. [Haizhao Yang](https://sites.google.com/prod/view/haizhaoyang/research)
+3. [Ming C. Lin](http://www.cs.umd.edu/~lin/)
+4. [Maria K. Cameron](https://www.math.umd.edu/~mariakc/) - Math
 
 **Companies**
 1. [Microsoft Research](https://www.microsoft.com/en-us/research/)
