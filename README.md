@@ -41,7 +41,7 @@ Awesome List of Controls, Vision, Planning
 1. MIT [6.801/6.866 Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/), 
 [2004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)
 2. MIT [6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/sp21/). Example [Repository](https://github.com/akselsd/MIT-6.869-Advances-In-Computer-Vision)
-3. [GAMES Advanced Course 3D Reconstruction and Understanding](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html)
+3. UT Austin - [GAMES Advanced Course 3D Reconstruction and Understanding](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html)
 4. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
 5. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 6. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
@@ -149,6 +149,7 @@ Other links:
 1. [NuTonomy](https://github.com/nutonomy)
 2. [Waymo](https://github.com/waymo-research)
 3. [Lyft](https://github.com/lyft)
+4. University of Tübingen [Lecture: Self-Driving Cars](https://uni-tuebingen.de/de/123611)
 
 ## Embedded
 1. MIT 6.846 Parallel Computing
