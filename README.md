@@ -41,13 +41,14 @@ Awesome List of Controls, Vision, Planning
 1. MIT [6.801/6.866 Machine Vision](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/), 
 [2004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)
 2. MIT [6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/sp21/). Example [Repository](https://github.com/akselsd/MIT-6.869-Advances-In-Computer-Vision)
-3. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
-4. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-5. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
-6. Stanford [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html), [Total Variation in-Painting](https://nbviewer.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/tv_inpainting.ipynb)
-7. MIT [6.838: Shape Analysis (Spring 2021)](https://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html)
-8. Ideas, Problem statements from [EPFL](https://www.epfl.ch/labs/ivrl/available-projects/). 💯
-9. [Oxford Active Vision Laboratory - code](https://code.active.vision/)
+3. [GAMES Advanced Course 3D Reconstruction and Understanding](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html)
+4. CMU [16-721 Learning-Based Methods in Vision](http://www.cs.cmu.edu/~efros/courses/LBMV07/)
+5. Stanford [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+6. Stanford [EE367 / CS448I: Computational Imaging](http://stanford.edu/class/ee367/)
+7. Stanford [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html), [Total Variation in-Painting](https://nbviewer.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/tv_inpainting.ipynb)
+8. MIT [6.838: Shape Analysis (Spring 2021)](https://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html)
+9. Ideas, Problem statements from [EPFL](https://www.epfl.ch/labs/ivrl/available-projects/). 💯
+10. [Oxford Active Vision Laboratory - code](https://code.active.vision/)
 
 
 **Companies**
