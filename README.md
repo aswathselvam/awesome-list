@@ -124,11 +124,12 @@ Other links:
 
 ## Robotics
 1. [Google Scholar: Top Robotics conferences](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
-2. [Nikolay Atanasov](https://existentialrobotics.org/pages/research.html)
-3. https://github.com/jslee02/awesome-robotics-libraries
-4. https://github.com/mathworks-robotics/awesome-matlab-robotics
-5. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
-6. https://github.com/dectrfov/ICRA2021PaperList
+2. [Arxiv CS:Robotics](https://arxiv.org/list/cs.RO/recent)
+3. [Nikolay Atanasov](https://existentialrobotics.org/pages/research.html)
+4. https://github.com/jslee02/awesome-robotics-libraries
+5. https://github.com/mathworks-robotics/awesome-matlab-robotics
+6. MIT [6.808[J] Mobile and Sensor Computing](https://6808.github.io/)
+7. https://github.com/dectrfov/ICRA2021PaperList
 
 **People**
 1. https://www.mit.edu/~arosinol/
