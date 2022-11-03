@@ -2,6 +2,21 @@
 Awesome List of Controls, Vision, Planning
 
 ## Interdisciplinary
+
+**Repositories from Industries**
+1. [Google](https://github.com/google-research)
+2. [Meta](https://github.com/facebookresearch)
+3. [Snap](https://github.com/snap-research)
+4. [Deepmind](https://github.com/deepmind/deepmind-research)
+5. [Microsoft](https://github.com/microsoft/EdgeML)
+6. [Intel](https://github.com/IntelAI)
+7. [Toyota Research Institute](https://github.com/orgs/TRI-ML/repositories)
+8. [Magic Leap](https://github.com/magicleap)
+9. [Neural Magic](https://github.com/neuralmagic)
+10. [Tangram Vision](https://gitlab.com/tangram-vision/oss)
+
+
+**Research**
 1. https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code
 2. [AI Conference Deadlines](http://aideadlin.es/?sub=RO,CV)
 3. [AAAI](https://aaai.org/)
