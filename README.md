@@ -7,14 +7,22 @@ Awesome List of Controls, Vision, Planning
 1. [Google](https://github.com/google-research)
 2. [Meta](https://github.com/facebookresearch)
 3. [Snap](https://github.com/snap-research)
-4. [Deepmind](https://github.com/deepmind/deepmind-research)
-5. [Qualcomm](https://github.com/Qualcomm-AI-research)
-6. [Microsoft](https://github.com/microsoft/EdgeML)
-7. [Intel](https://github.com/IntelAI)
-8. [Toyota Research Institute](https://github.com/orgs/TRI-ML/repositories)
-9. [Magic Leap](https://github.com/magicleap)
-10. [Neural Magic](https://github.com/neuralmagic)
-11. [Tangram Vision](https://gitlab.com/tangram-vision/oss)
+4. [NASA](https://github.com/nasa)
+5. [Deepmind](https://github.com/deepmind/deepmind-research)
+6. [Qualcomm](https://github.com/Qualcomm-AI-research)
+7. [Microsoft](https://github.com/microsoft/EdgeML)
+8. [Intel](https://github.com/IntelAI)
+9. [Toyota Research Institute](https://github.com/orgs/TRI-ML/repositories)
+10. [Magic Leap](https://github.com/magicleap)
+11. [Neural Magic](https://github.com/neuralmagic)
+12. [Tangram Vision](https://gitlab.com/tangram-vision/oss)
+
+
+**Repositories from Academia**
+1. [Robotic Systems Lab](https://github.com/leggedrobotics)
+2. [Autonomous Systems Lab](https://github.com/StanfordASL), [torchfilter](https://github.com/stanford-iprl-lab/torchfilter)
+3. [Air Lab](https://github.com/castacks)
+4. [xLab for Safe Autonomous Systems](https://github.com/mlab-upenn)
 
 
 **Research**
