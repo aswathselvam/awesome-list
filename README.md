@@ -8,12 +8,13 @@ Awesome List of Controls, Vision, Planning
 2. [Meta](https://github.com/facebookresearch)
 3. [Snap](https://github.com/snap-research)
 4. [Deepmind](https://github.com/deepmind/deepmind-research)
-5. [Microsoft](https://github.com/microsoft/EdgeML)
-6. [Intel](https://github.com/IntelAI)
-7. [Toyota Research Institute](https://github.com/orgs/TRI-ML/repositories)
-8. [Magic Leap](https://github.com/magicleap)
-9. [Neural Magic](https://github.com/neuralmagic)
-10. [Tangram Vision](https://gitlab.com/tangram-vision/oss)
+5. [Qualcomm](https://github.com/Qualcomm-AI-research)
+6. [Microsoft](https://github.com/microsoft/EdgeML)
+7. [Intel](https://github.com/IntelAI)
+8. [Toyota Research Institute](https://github.com/orgs/TRI-ML/repositories)
+9. [Magic Leap](https://github.com/magicleap)
+10. [Neural Magic](https://github.com/neuralmagic)
+11. [Tangram Vision](https://gitlab.com/tangram-vision/oss)
 
 
 **Research**
