@@ -196,6 +196,10 @@ Other links:
 ## Tools
 1. [Connected Papers](https://www.connectedpapers.com/)
 
+## Software Engineering Practices
+1. [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+2. [CPPCon](https://github.com/CppCon)
+
 ## Stuffs:
 1. [Gang of Four Design Patterns](https://github.com/Junzhuodu/design-patterns)
 2. Cornell [Reuleaux Kinematic Mechanisms Collection](https://digital.library.cornell.edu/collections/kmoddl)
