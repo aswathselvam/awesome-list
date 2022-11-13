@@ -144,7 +144,8 @@ Other links:
 
 
 ## Learning
-1. [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789_fall_2021.html) 💥
+1. [CMSC 828W: Foundations of Deep Learning](https://www.cs.umd.edu/~sfeizi/Teaching.html)
+2. [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789_fall_2021.html) 💥
 
 
 
